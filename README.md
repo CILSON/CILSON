@@ -1,5 +1,9 @@
 ## Hi there 👋
 ![Demo](assets/demo.gif)
+
+<p align="center">
+  <img src="assets/demo.gif" width="500"/>
+</p>
 <!--
 **CILSON/CILSON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
