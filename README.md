@@ -2,7 +2,7 @@
 <!--![Demo](assets/Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter(1)(1).gif)-->
 
 <p align="center">
-  <img src="assests\Pixel_Art_Stock_Trader_Animation-ezgif.com-video-to-gif-converter.gif" width="500"/>
+  <img src="assests\Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter (1) (1).gif" width="500"/>
 </p> 
 <!--
 **CILSON/CILSON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
