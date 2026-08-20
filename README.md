@@ -3,19 +3,19 @@
 <!-- <p align="center"> 
   <img src="assests/Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter (1) (1).gif" width="500" alt="Pixel art stock trader animation"/>
   </p> -->
-## Hi There 👋
-<p align="left"><img src="https://komarev.com/ghpvc/?username=CILSON&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views"/> &nbsp; <img src="https://img.shields.io/github/followers/CILSON?style=for-the-badge&color=8B5CF6&label=FOLLOWERS" alt="followers"/> </p>
+# Hi There 👋
+<p align="left"><img src="https://komarev.com/ghpvc/?username=CILSON&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&size=20" alt="profile views"/> &nbsp; <img src="https://img.shields.io/github/followers/CILSON?style=for-the-badge&color=8B5CF6&label=FOLLOWERS" alt="followers"/> </p>
 
-<p align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8B5CF6&width=650&lines=Building+AI+systems;Exploring+quantitative+finance;Turning+ideas+into+working+software" alt="Typing SVG"/> </a> </p>
+<p align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8B5CF6&width=650&lines=Building+AI+systems;Exploring+quantitative+finance;Turning+ideas+into+working+software" alt="Typing SVG"/> </a> </p>
 
 ---
 
-### 🎓 Background
+## 🎓 Background
 Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 
 ---
 
-### 🚀 Current Focus
+## 🚀 Current Focus
 
 <table>
 <tr>
