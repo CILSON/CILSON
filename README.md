@@ -1,12 +1,13 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Hey%20there!%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
 # Hi, I'm Siddharth 👋
 
 <p align="center">
   <img src="assests/Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter (1) (1).gif" width="500" alt="Pixel art stock trader animation"/>
 </p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Hey%20there!%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=1e293b" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/your-username?style=flat-square&color=1e293b&label=followers" alt="followers"/>
@@ -75,10 +76,15 @@ Currently CLI-based, powered by the Gemini API, and actively evolving.
 <th>Project</th><th>What it does</th><th>Stack</th>
 </tr>
 <tr>
+<td><b>📊 Terminal X</b></td>
+<td>*Bloomberg Terminal-inspired platform for market intelligence and quantitative analysis.*</td>
+<td><code>Python</code> <code>Next.js</code> <code>FastAPI</code></td>
+</tr>
 <td><b>🧠 Gola</b></td>
 <td>Personal AI assistant, CLI-first. Voice and a frontend are next.</td>
 <td><code>Python</code> <code>Gemini API</code></td>
 </tr>
+<tr>
 <tr>
 <td><b>📈 Quant Trading & Backtester</b></td>
 <td>System for testing and evaluating trading strategies on historical data.</td>
@@ -88,11 +94,6 @@ Currently CLI-based, powered by the Gemini API, and actively evolving.
 <td><b>🔬 PLGA Prediction (ML Research)</b></td>
 <td>ML models for predicting properties in a materials/research context.</td>
 <td><code>scikit-learn</code> <code>XGBoost</code> <code>CatBoost</code></td>
-</tr>
-<tr>
-<td><b>⚙️ Autonomous ML Pipeline</b></td>
-<td>End-to-end pipeline automating training and evaluation workflows.</td>
-<td><code>Python</code> <code>Optuna</code> <code>LightGBM</code></td>
 </tr>
 </table>
 
