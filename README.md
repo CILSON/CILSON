@@ -35,9 +35,26 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 
 ### Languages & Core Tools
 
+### Languages & Core Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,java,sql,git,github,docker,excel,jupyter" height="30"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="30" height="30" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="30" height="30" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/F0F6FC" width="30" height="30" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" height="30" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/excel/2496ED" width="30" height="30" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="30" height="30" alt="Jupyter"/>
 </p>
+
 
 
 ### AI / ML / Research
