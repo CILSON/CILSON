@@ -71,33 +71,37 @@ Currently CLI-based, powered by the Gemini API, and actively evolving.
 
 <table>
 <tr>
-<th>Project</th><th>What it does</th><th>Stack</th>
+<th>Project</th>
+<th>Stack</th>
 </tr>
+
 <tr>
 <td><b>📊 Terminal X</b></td>
-<td>*Bloomberg Terminal-inspired platform for market intelligence and quantitative analysis.*</td>
+<td>Bloomberg-inspired market intelligence platform with data processing, quantitative analysis, APIs, and an interactive web interface.</td>
 <td><code>Python</code> <code>Next.js</code> <code>FastAPI</code></td>
 </tr>
+
+<tr>
 <td><b>🧠 Gola</b></td>
-<td>Personal AI assistant, CLI-first. Voice and a frontend are next.</td>
+<td>CLI-first personal AI assistant focused on tool integration, structured workflows, and extensible agent functionality.</td>
 <td><code>Python</code> <code>Gemini API</code></td>
 </tr>
-<tr>
+
 <tr>
 <td><b>📈 Quant Trading & Backtester</b></td>
-<td>System for testing and evaluating trading strategies on historical data.</td>
+<td>Modular backtesting system for strategy evaluation, risk management, position sizing, transaction costs, and performance analysis.</td>
 <td><code>Python</code> <code>pandas</code> <code>CCXT</code> <code>TA-Lib</code></td>
 </tr>
+
 <tr>
-<td><b>🔬 PLGA Prediction (ML Research)</b></td>
-<td>ML models for predicting properties in a materials/research context.</td>
-<td><code>scikit-learn</code> <code>XGBoost</code> <code>CatBoost</code></td>
+<td><b>🔬 PLGA Prediction</b></td>
+<td>ML research pipeline for predicting nanoparticle properties with model comparison, cross-validation, hyperparameter optimization, and evaluation.</td>
+<td><code>Python</code> <code>scikit-learn</code> <code>XGBoost</code> <code>CatBoost</code></td>
 </tr>
+
 </table>
 
 ---
-
-### 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CILSON&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -109,9 +113,6 @@ Currently CLI-based, powered by the Gemini API, and actively evolving.
 </p>
 
 ---
-
-### 📡 Connect
-
 <p align="center">
 <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/siddharth-cilson-1962a2314)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:cilsonsiddharth28@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
