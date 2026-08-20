@@ -36,7 +36,9 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 ### Languages & Core Tools
 
 <p>
-<i class="programming lang-python"></i>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,java,sql,git,github,docker" height="48"/>
+</p>
 <img src="https://githubusercontent.com" width="40" height="40" alt="Python logo">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
