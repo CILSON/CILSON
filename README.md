@@ -3,9 +3,9 @@
 
 <img src="assests/Banner.png" width="100%"/>
 
-<p align="center">
+<!-- <p align="center"> 
   <img src="assests/Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter (1) (1).gif" width="500" alt="Pixel art stock trader animation"/>
-</p>
+  </p> -->
 
 <img src="https://komarev.com/ghpvc/?username=CILSON&style=flat-square&color=1e293b" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/CILSON?style=flat-square&color=1e293b&label=followers" alt="followers"/>
