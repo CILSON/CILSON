@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Hey%20there!%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-# Hi, I'm Siddharth 👋
+<img src="assests/Banner.png" width="100%"/>
 
 <p align="center">
   <img src="assests/Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter (1) (1).gif" width="500" alt="Pixel art stock trader animation"/>
