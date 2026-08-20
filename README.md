@@ -44,6 +44,8 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
   <img src="assests/Git.svg" height="30"/>
   <img src="assests/Docker.svg" height="30"/>
   <img src="assests/Jupyter.svg" height="30"/>
+  <img src="assests/NumPy.svg" height="30"/>
+  <img src="assests/Pandas.svg" height="30"/>
 </p>
 
 ### AI / ML / Research
@@ -54,25 +56,6 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square"/>
 <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
 <img src="https://img.shields.io/badge/Optuna-2E86C1?style=flat-square"/>
-</p>
-
-### Data
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/CCXT-2D2D2D?style=flat-square"/>
-<img src="https://img.shields.io/badge/TA--Lib-8E44AD?style=flat-square"/>
-<img src="https://img.shields.io/badge/YFinance-5B8DEF?style=flat-square"/>
-</p>
-
-### Web / Backend / Product
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ### Concepts I Work With
