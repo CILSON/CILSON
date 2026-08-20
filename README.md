@@ -35,14 +35,13 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 
 ### Languages & Core Tools
 
-### Languages & Core Tools
-
 <p align="left">
   <img src="assests/C.svg" height="30"/>
   <img src="assests/Python.svg" height="30"/>
   <img src="assests/TypeScript.svg" height="30"/>
   <img src="assests/CSS3.svg" height="30"/>
   <img src="assests/HTML5.svg" height="30"/>
+  <img src="assests/Git.svg" height="30"/>
   <img src="assests/Docker.svg" height="30"/>
   <img src="assests/Jupyter.svg" height="30"/>
 </p>
