@@ -4,7 +4,7 @@
   <img src="assests/Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter (1) (1).gif" width="500" alt="Pixel art stock trader animation"/>
   </p> -->
 ## Hi, I'm Siddharth Cilson 👋
-<p align="left"><img src="https://komarev.com/ghpvc/?username=CILSON&style=for-the-badge&color=0B1B3A&label=PROFILE+VIEWS" alt="profile views"/> &nbsp; <img src="https://img.shields.io/github/followers/CILSON?style=for-the-badge&color=0B1B3A&label=FOLLOWERS" alt="followers"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=CILSON&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views"/> &nbsp; <img src="https://img.shields.io/github/followers/CILSON?style=for-the-badge&color=8B5CF6&label=FOLLOWERS" alt="followers"/> </p>
 
 <p align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&width=650&lines=Building+AI+systems;Exploring+quantitative+finance;Turning+ideas+into+working+software" alt="Typing SVG"/> </a> </p>
 ---
