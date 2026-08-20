@@ -45,25 +45,65 @@ Currently CLI-based, powered by the Gemini API, and actively evolving.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**AI / ML**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-006ACC?style=flat-square)
-![LightGBM](https://img.shields.io/badge/-LightGBM-9ACD32?style=flat-square)
-![Optuna](https://img.shields.io/badge/-Optuna-2E86C1?style=flat-square)
+### Languages & Core Tools
 
-**Quant / Data**
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![CCXT](https://img.shields.io/badge/-CCXT-F7931A?style=flat-square)
-![TA--Lib](https://img.shields.io/badge/-TA--Lib-8E44AD?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
-**Product / Infra**
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+### AI / ML / Research
+
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/>
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square"/>
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optuna-2E86C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+### Data / Quantitative Finance
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/CCXT-2D2D2D?style=flat-square"/>
+<img src="https://img.shields.io/badge/TA--Lib-8E44AD?style=flat-square"/>
+<img src="https://img.shields.io/badge/YFinance-5B8DEF?style=flat-square"/>
+</p>
+
+### Web / Backend / Product
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### Concepts I Work With
+
+<p>
+<img src="https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Time%20Series-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Quantitative%20Research-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backtesting-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optimization-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Design-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-9333EA?style=flat-square"/>
+</p>
+
 
 ---
 
