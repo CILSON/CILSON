@@ -51,9 +51,7 @@ Currently CLI-based, powered by the Gemini API, and actively evolving.
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -67,10 +65,9 @@ Currently CLI-based, powered by the Gemini API, and actively evolving.
 <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square"/>
 <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
 <img src="https://img.shields.io/badge/Optuna-2E86C1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </p>
 
-### Data / Quantitative Finance
+### Data
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
