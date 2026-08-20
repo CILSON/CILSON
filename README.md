@@ -19,12 +19,6 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 
 <table>
 <tr>
-<td width="60%">
-
-**🤖 Gola — my personal AI assistant**
-Currently CLI-based, powered by the Gemini API, and actively evolving.
-
-</td>
 <td>
 
 - AI / LLM applications
