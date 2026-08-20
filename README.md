@@ -6,8 +6,7 @@
 <!-- <p align="center"> 
   <img src="assests/Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter (1) (1).gif" width="500" alt="Pixel art stock trader animation"/>
   </p> -->
-
-<img src="https://komarev.com/ghpvc/?username=CILSON&style=flat-square&color=1e293b" alt="profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Hey%20there!%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/><img src="https://komarev.com/ghpvc/?username=CILSON&style=flat-square&color=1e293b" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/CILSON?style=flat-square&color=1e293b&label=followers" alt="followers"/>
 
 <a href="https://git.io/typing-svg">
@@ -19,7 +18,7 @@
 ---
 
 ### 🎓 Background
-Integrated B.Tech + M.Tech student at **IIT (BHU), Varanasi**, learning by building rather than just studying theory.
+Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 
 ---
 
@@ -50,6 +49,7 @@ Currently CLI-based, powered by the Gemini API, and actively evolving.
 ### Languages & Core Tools
 
 <p>
+<img src="https://githubusercontent.com" width="40" height="40" alt="Python logo">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
