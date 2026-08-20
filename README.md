@@ -118,7 +118,7 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CILSON/CILSON/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/CILSON/CILSON/output/github-snake-light.svg" alt="GitHub contribution snake animation"/>
 </p>
 
 ---
