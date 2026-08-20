@@ -113,19 +113,18 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/CILSON/CILSON/output/github-snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CILSON&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CILSON&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CILSON/CILSON/output/github-snake-light.svg" alt="GitHub contribution snake animation"/>
-</p>
-
 ---
 <p align="center">
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/siddharth-cilson-1962a2314)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:cilsonsiddharth28@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/CILSON"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/siddharth-cilson-1962a2314)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height=30/></a>
+<a href="mailto:cilsonsiddharth28@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height=30/></a>
 </p>
 
 </div>
