@@ -6,7 +6,7 @@
 # Hi There 👋
 <p align="left"><img src="https://komarev.com/ghpvc/?username=CILSON&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" height=32/> &nbsp; <img src="https://img.shields.io/github/followers/CILSON?style=for-the-badge&color=8B5CF6&label=FOLLOWERS" alt="followers" height=32/> </p>
 
-<p align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8B5CF6&width=650&lines=Building+AI+systems;Exploring+quantitative+finance;Turning+ideas+into+working+software" alt="Typing SVG"/> </a> </p>
+<p align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=8B5CF6&width=650&lines=Building+AI+systems;Exploring+quantitative+finance;Turning+ideas+into+working+software" alt="Typing SVG"/> </a> </p>
 
 ---
 
