@@ -81,6 +81,7 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 <table>
 <tr>
 <th>Project</th>
+<th>About</th>
 <th>Stack</th>
 </tr>
 
