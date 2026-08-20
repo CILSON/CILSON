@@ -55,6 +55,7 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/>
 <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square"/>
 <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Optuna-2E86C1?style=flat-square"/>
 </p>
 
