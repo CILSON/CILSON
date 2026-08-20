@@ -3,14 +3,10 @@
 <!-- <p align="center"> 
   <img src="assests/Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter (1) (1).gif" width="500" alt="Pixel art stock trader animation"/>
   </p> -->
-# Hi, I'm Siddharth Cilson 👋
-<p align="left"><img src="https://komarev.com/ghpvc/?username=CILSON&style=flat-square&color=1e293b" alt="profile views"/></p>
-<p align="centre"><img src="https://img.shields.io/github/followers/CILSON?style=flat-square&color=1e293b&label=followers" alt="followers"/></p>
-<p align="right">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&vCenter=true&width=500&lines=Building+AI+systems;Exploring+quantitative+finance;Turning+ideas+into+working+software" alt="Typing SVG" />
-</a>
-</p>
+## Hi, I'm Siddharth Cilson 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CILSON&style=flat-square&color=1e293b" alt="profile views"/> &nbsp;&nbsp; <img src="https://img.shields.io/github/followers/CILSON?style=flat-square&color=1e293b&label=followers" alt="followers"/> </p>
+
+<p align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI+systems;Exploring+quantitative+finance;Turning+ideas+into+working+software" alt="Typing SVG"/> </a> </p>
 
 ---
 
