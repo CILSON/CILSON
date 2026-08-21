@@ -21,9 +21,9 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 <tr>
 <td>
 
-- AI / LLM applications
-- Quantitative & algorithmic trading
-- ML research + automation
+- Brain Tumour 3D visualization
+- Augmented Reality
+- Personalised AI Assistant
 
 </td>
 </tr>
@@ -93,13 +93,7 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 </tr>
 
 <tr>
-<td><b>🧠 Gola</b></td>
-<td>CLI-first personal AI assistant focused on tool integration, structured workflows, and extensible agent functionality.</td>
-<td><code>Python</code> <code>Gemini API</code></td>
-</tr>
-
-<tr>
-<td><b>📈 Quant Trading & Backtester</b></td>
+<td><b>📈 Quant Trading Strategy </b></td>
 <td>Modular backtesting system for strategy evaluation, risk management, position sizing, transaction costs, and performance analysis.</td>
 <td><code>Python</code> <code>pandas</code> <code>CCXT</code> <code>TA-Lib</code></td>
 </tr>
