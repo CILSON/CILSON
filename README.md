@@ -1,55 +1,67 @@
-<p align="centre"><img src="assests/Banner.png" width="100%"/></p>
+<div align="center">
 
-<!-- <p align="center"> 
-  <img src="assests/Pixel_Art_Stock_Trader_Animation_Generated-ezgif.com-video-to-gif-converter (1) (1).gif" width="500" alt="Pixel art stock trader animation"/>
-  </p> -->
-# Hi There 👋
-<p align="left"><img src="https://komarev.com/ghpvc/?username=CILSON&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" height=32/> &nbsp; <img src="https://img.shields.io/github/followers/CILSON?style=for-the-badge&color=8B5CF6&label=FOLLOWERS" alt="followers" height=32/> </p>
+<img src="assests/Banner.png" width="100%"/>
 
-<p align="left"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=800&color=8B5CF6&width=650&lines=Building+AI+systems;Exploring+quantitative+finance;Turning+ideas+into+working+software" alt="Typing SVG"/> </a> </p>
+<br/>
 
----
+# Hey, I'm Cilson 👋
 
-## 🎓 Background
-Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
+<img src="https://komarev.com/ghpvc/?username=CILSON&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" height="28"/>
+<img src="https://img.shields.io/github/followers/CILSON?style=for-the-badge&color=8B5CF6&label=FOLLOWERS" alt="followers" height="28"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Pharma+Engineering+%2B+Machine+Learning;Building+quant+trading+systems;Turning+research+into+working+software;Founder-in-training%2C+AI+x+Healthcare" alt="Typing SVG"/>
+</a>
 
-## 🚀 Current Focus
+<a href="https://www.linkedin.com/in/siddharth-cilson-1962a2314"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:cilsonsiddharth28@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<table>
-<tr>
-<td>
+</div>
 
-- Brain Tumour 3D visualization
-- Augmented Reality
-- Personalised AI Assistant
+<br/>
 
-</td>
-</tr>
-</table>
+## 🧬 About Me
 
----
+```yaml
+name:        Cilson
+degree:      Integrated Dual Degree (B.Tech + M.Tech), Pharmaceutical Engineering & Technology
+institute:   IIT (BHU) Varanasi  |  2024 – 2029
+academics:   CPI ~9.08
+lab:         Research under Dr. Ashish K. Agarwal
+club:        Core Member, Quant Club @ IIT BHU
+mission:     Founding a company at the intersection of AI and Healthcare
+side_quest:  Quantitative finance, international research
+```
+
+I sit at an unusual intersection — pharmaceutical engineering by degree, machine learning and quant research by obsession. Most of what's below is either a market I'm trying to model or a molecule I'm trying to predict.
+
+<br/>
+
+## 🚀 What I'm Building Right Now
+
+- 🧠 **Personal AI Assistant** — a Python-based assistant, built from scratch as a personal infrastructure project
+- 📊 **Terminal X** — a Bloomberg Terminal–style market intelligence platform
+- 📈 **Systematic crypto trading engine** — institutional-style trend-following research + paper trading system
+- 🔬 **PLGA nanoparticle ML research** — predictive modeling for drug-delivery nanoparticles, en route to publication
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages & Core Tools
-
 <p align="left">
-  <img src="assests/C.svg" height="30"/>
-  <img src="assests/Python.svg" height="30"/>
-  <img src="assests/TypeScript.svg" height="30"/>
-  <img src="assests/CSS3.svg" height="30"/>
-  <img src="assests/HTML5.svg" height="30"/>
-  <img src="assests/Git.svg" height="30"/>
-  <img src="assests/Docker.svg" height="30"/>
-  <img src="assests/Jupyter.svg" height="30"/>
-  <img src="assests/NumPy.svg" height="30"/>
-  <img src="assests/Pandas.svg" height="30"/>
+  <img src="assests/C.svg" height="32"/>
+  <img src="assests/Python.svg" height="32"/>
+  <img src="assests/TypeScript.svg" height="32"/>
+  <img src="assests/CSS3.svg" height="32"/>
+  <img src="assests/HTML5.svg" height="32"/>
+  <img src="assests/Git.svg" height="32"/>
+  <img src="assests/Docker.svg" height="32"/>
+  <img src="assests/Jupyter.svg" height="32"/>
+  <img src="assests/NumPy.svg" height="32"/>
+  <img src="assests/Pandas.svg" height="32"/>
 </p>
 
-### AI / ML / Research
-
+**ML / Research**
 <p>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/>
@@ -57,27 +69,22 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Optuna-2E86C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-6E40C9?style=flat-square"/>
 </p>
 
-### Concepts I Work With
-
+**Quant / Trading**
 <p>
-<img src="https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-1F2937?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Time%20Series-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Quantitative%20Research-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Backtesting-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Optimization-DC2626?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/API%20Design-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automation-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Black--Scholes-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Risk%20Management-B91C1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Monte%20Carlo-059669?style=flat-square"/>
+<img src="https://img.shields.io/badge/CCXT-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/TA--Lib-0891B2?style=flat-square"/>
 </p>
 
+<br/>
 
----
-
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <table>
 <tr>
@@ -88,25 +95,48 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 
 <tr>
 <td><b>📊 Terminal X</b></td>
-<td>Bloomberg-inspired market intelligence platform with data processing, quantitative analysis, APIs, and an interactive web interface.</td>
+<td>Bloomberg-inspired market intelligence platform — data pipelines, quantitative analysis, APIs, and an interactive web interface.</td>
 <td><code>Python</code> <code>Next.js</code> <code>FastAPI</code></td>
 </tr>
 
 <tr>
-<td><b>📈 Quant Trading Strategy </b></td>
-<td>Modular backtesting system for strategy evaluation, risk management, position sizing, transaction costs, and performance analysis.</td>
+<td><b>📈 Crypto Trend-Following Engine</b></td>
+<td>Institutional-grade backtesting + paper-trading engine for BTC/ETH — typed Python, event-bus architecture, YAML-driven config, realistic broker simulation.</td>
 <td><code>Python</code> <code>pandas</code> <code>CCXT</code> <code>TA-Lib</code></td>
 </tr>
 
 <tr>
-<td><b>🔬 PLGA Prediction</b></td>
-<td>ML research pipeline for predicting nanoparticle properties with model comparison, cross-validation, hyperparameter optimization, and evaluation.</td>
-<td><code>Python</code> <code>scikit-learn</code> <code>XGBoost</code> <code>CatBoost</code></td>
+<td><b>🔬 PLGA Nanoparticle ML</b></td>
+<td>ML pipeline predicting nanoparticle particle size, encapsulation efficiency, and drug loading (R² up to 0.83) — with a novel leakage-detection finding, headed toward publication.</td>
+<td><code>Python</code> <code>scikit-learn</code> <code>XGBoost</code> <code>CatBoost</code> <code>SHAP</code></td>
+</tr>
+
+<tr>
+<td><b>🤖 Personal AI Assistant</b></td>
+<td>A from-scratch personal AI assistant built in Python as an ongoing infrastructure project.</td>
+<td><code>Python</code></td>
 </tr>
 
 </table>
 
----
+<br/>
+
+## 🏆 Competitions & Recognition
+
+- 🥇 **IQC Ranking** — 331st globally, 1st at IIT BHU
+- ⚡ **IMC Prosperity Round 3** — built a Python trading bot (v1–v3) across HYDROGEL_PACK, VELVETFRUIT_EXTRACT & options markets, applying Black-Scholes pricing and delta hedging
+- 🧠 **TECHNEX'26 AlgoZen** (IIT BHU TechFest) — evaluated multiple systematic strategies on NIFTY 500 data
+- 🌐 **WorldQuant Brain** — early alpha research experience
+
+<br/>
+
+## 📖 Currently Reading & Researching
+
+Working with Dr. Agarwal on a nanoparticle ML paper — the interesting part isn't the R² scores, it's discovering that one of the standard "targets" in the field (drug loading) is mathematically entangled with another variable, which makes most naive models quietly leak information. Turning that into a methods contribution rather than a footnote.
+
+<br/>
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CILSON/CILSON/output/github-snake.svg" alt="GitHub contribution snake animation"/>
@@ -117,10 +147,15 @@ Integrated B.Tech + M.Tech student @ **IIT (BHU), Varanasi** (2024-2029).
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CILSON&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
----
-<p align="center">
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/siddharth-cilson-1962a2314)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height=30/></a>
-<a href="mailto:cilsonsiddharth28@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height=30/></a>
-</p>
+<br/>
+
+<div align="center">
+
+### 📫 Let's connect
+
+<a href="https://www.linkedin.com/in/siddharth-cilson-1962a2314"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:cilsonsiddharth28@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+*"Building at the intersection of code and chemistry."*
 
 </div>
