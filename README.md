@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="assests/Banner.png" width="100%"/>
-
-<br/>
-
-# Hey, I'm Cilson 👋
+<img src="assests/terminal-boot-banner.svg" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=CILSON&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" height="28"/>
 <img src="https://img.shields.io/github/followers/CILSON?style=for-the-badge&color=8B5CF6&label=FOLLOWERS" alt="followers" height="28"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Pharma+Engineering+%2B+Machine+Learning;Building+quant+trading+systems;Turning+research+into+working+software;Founder-in-training%2C+AI+x+Healthcare" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+quant+trading+systems;Predicting+nanoparticle+behavior+with+ML;Turning+research+into+working+software" alt="Typing SVG"/>
 </a>
 
 <a href="https://www.linkedin.com/in/siddharth-cilson-1962a2314"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,7 +14,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&color=8B5CF6&section=header" width="100%"/>
 
 ## 🧬 About Me
 
@@ -82,7 +78,7 @@ I sit at an unusual intersection — pharmaceutical engineering by degree, machi
 <img src="https://img.shields.io/badge/TA--Lib-0891B2?style=flat-square"/>
 </p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&color=8B5CF6&section=header" width="100%"/>
 
 ## 🌟 Featured Projects
 
@@ -134,7 +130,7 @@ I sit at an unusual intersection — pharmaceutical engineering by degree, machi
 
 Working with Dr. Agarwal on a nanoparticle ML paper — the interesting part isn't the R² scores, it's discovering that one of the standard "targets" in the field (drug loading) is mathematically entangled with another variable, which makes most naive models quietly leak information. Turning that into a methods contribution rather than a footnote.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&color=8B5CF6&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
