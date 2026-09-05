@@ -106,7 +106,21 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CILSON/CILSON/output/github-snake.svg" alt="GitHub contribution snake animation"/>
+  <p align="center">
+  <!-- Profile Details Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CILSON&theme=tokyonight" alt="Profile Details" width="49%"/>
+  
+  <!-- Repos Per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CILSON&theme=tokyonight" alt="Repos Per Language" width="49%"/>
+</p>
+
+<p align="center">
+  <!-- Most Commit Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CILSON&theme=tokyonight" alt="Most Commit Language" width="49%"/>
+  
+  <!-- Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CILSON&theme=tokyonight" alt="Stats" width="49%"/>
+</p>
 </p>
 
 <p align="center">
