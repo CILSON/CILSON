@@ -107,19 +107,14 @@
 
 <p align="center">
   <p align="center">
-  <!-- Profile Details Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CILSON&theme=tokyonight" alt="Profile Details" width="49%"/>
-  
-  <!-- Repos Per Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CILSON&theme=tokyonight" alt="Repos Per Language" width="49%"/>
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=CILSON&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
 </p>
 
 <p align="center">
-  <!-- Most Commit Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CILSON&theme=tokyonight" alt="Most Commit Language" width="49%"/>
-  
-  <!-- Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CILSON&theme=tokyonight" alt="Stats" width="49%"/>
+  <!-- Standard Stats to balance it out -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CILSON&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CILSON&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 </p>
 
